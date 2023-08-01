@@ -1,3 +1,4 @@
+a=100
 Merged Concept
 Deleting Lines
 Adding few more lines
